@@ -11,5 +11,5 @@ Olá! Eu sou a  Júlia Oliveira
 </div>
   
 <div>
-<a href="https://www.linkedin.com/in/julia-oliveira-santos-352425209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-% 230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/julia-oliveira-santos-352425209/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogospng.org%2Flogo-linkedin%2F&psig=AOvVaw3eG4tUuqKGGO1FhkzjoqKa&ust=1650662288533000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICY7q-KpvcCFQAAAAAdAAAAABAP" target="_blank"></a>
   </div>
