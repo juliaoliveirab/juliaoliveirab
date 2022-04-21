@@ -1,8 +1,8 @@
 
 ## Olá! Eu sou a  Júlia Oliveira
 
-- 💻 Estudante de nível técnico do curso de Desenvolvimento de Sistemas
--  🔹  18 anos
+🔹 Estudante de nível técnico do curso de Desenvolvimento de Sistemas
+🔹  18 anos
 
 <div align="center">
   <a href="https://github.com/juliaoliveirab">
