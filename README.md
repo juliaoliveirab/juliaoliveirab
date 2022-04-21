@@ -2,6 +2,7 @@
 ## Olá! Eu sou a  Júlia Oliveira
 
 🔹 Estudante de nível técnico do curso de Desenvolvimento de Sistemas
+<br>
 🔹  18 anos
 
 <div align="center">
